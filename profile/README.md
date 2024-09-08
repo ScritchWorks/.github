@@ -1,4 +1,8 @@
-## Hi there 👋
+## ʕ ´･ܫ･` ʔ Hello!
+
+Hello! ScritchWorks is the branding / name I use for my illustrations. Additionally, I have a number of tools, scripts, sites, etc that I have built for it which I will slowly be uploading here!
+
+I'll add to this more soon, until then, please check out my work on my [website](https://scritch.works)!
 
 <!--
 
